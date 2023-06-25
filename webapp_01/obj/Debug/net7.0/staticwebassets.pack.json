@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\logos\\apple-pay-logo.png",
+      "PackagePath": "staticwebassets\\logos\\apple-pay-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\logos\\cashapp-logo.png",
+      "PackagePath": "staticwebassets\\logos\\cashapp-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\logos\\facebook-pay-logo.png",
+      "PackagePath": "staticwebassets\\logos\\facebook-pay-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\logos\\meta-pay-logo.png",
+      "PackagePath": "staticwebassets\\logos\\meta-pay-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\logos\\paypal-logo.png",
+      "PackagePath": "staticwebassets\\logos\\paypal-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\1-ode-to-joy.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\1-ode-to-joy.pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\2-morning-mood.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\2-morning-mood.pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\25-god-is-so-good.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\25-god-is-so-good.pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\26-harmony.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\26-harmony.pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\8-fur-elise.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\8-fur-elise.pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\Jingle Bells, Bg Piano 4-29-21[5097].pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Jingle Bells, Bg Piano 4-29-21[5097].pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\Lost Woods Beginner Piano Sheet Music PDF[5095].pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Lost Woods Beginner Piano Sheet Music PDF[5095].pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\MHALL Melody w Names[5090].pdf",
+      "PackagePath": "staticwebassets\\pdfs\\MHALL Melody w Names[5090].pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\Mango Minor 2021[5099].pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Mango Minor 2021[5099].pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\Minecraft Theme Piano[5098].pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Minecraft Theme Piano[5098].pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\Pacabel's Canon Beginner 2021[5100].pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Pacabel's Canon Beginner 2021[5100].pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\pdfs\\Sightreading FEB 21[5094].pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Sightreading FEB 21[5094].pdf"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\qrcodes\\cashapp-qr-code.png",
+      "PackagePath": "staticwebassets\\qrcodes\\cashapp-qr-code.png"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\qrcodes\\metapay-qr-code.jpg",
+      "PackagePath": "staticwebassets\\qrcodes\\metapay-qr-code.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\qrcodes\\paypal-qr-code-2.jpg",
+      "PackagePath": "staticwebassets\\qrcodes\\paypal-qr-code-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amayes\\Downloads\\github download 6-25-23\\HarmonyApp-main\\HarmonyApp-main\\webapp_01\\wwwroot\\qrcodes\\paypal-qr-code.png",
+      "PackagePath": "staticwebassets\\qrcodes\\paypal-qr-code.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.webbapp_01.props",
+      "PackagePath": "build\\webbapp_01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.webbapp_01.props",
+      "PackagePath": "buildMultiTargeting\\webbapp_01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.webbapp_01.props",
+      "PackagePath": "buildTransitive\\webbapp_01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.webbapp_01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

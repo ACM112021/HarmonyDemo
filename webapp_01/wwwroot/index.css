@@ -1,0 +1,212 @@
+.link-body-emphasis {
+    color: white !important;
+  }
+  
+
+
+body {
+    background-color: #122932ff;
+    /* "gunmetal" color */
+    font-family: 'Script Std', cursive;
+    display: flex;
+    height: 100%;
+}
+
+
+.my-header {
+    background-color: #0a5180;
+    /* "non-photo-blue" color */
+    text-align: center;
+    color: white;
+    border-width: 8px;
+    border-style: groove;
+    border-color: #3498db;
+    font-family: 'Script Std', cursive;
+}
+
+
+
+.my-footer {
+    background-color: #0a5180;
+    /* "non-photo-blue" color */
+    text-align: left;
+    color: white;
+    margin-top: 300px;
+    border-width: 8px;
+    border-style: groove;
+    border-color: #3498db;
+    font-family: 'Script Std', cursive;
+    /* fixed footer at bottom with below code */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.page-title {
+    text-align: center;
+    font-family: 'Script Std', cursive;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    color: white;
+}
+
+.col-music-sheet-table {
+    background-color: white;
+    padding-top: 20px;
+    font-family: 'Script Std', cursive;
+    margin-bottom: 25px;
+    border-width: 8px;
+    border-style: ridge;
+    border-color: #3498db;
+}
+
+
+.col-tutorial-table {
+    background-color: white;
+    padding-top: 20px;
+    font-family: 'Script Std', cursive;
+    margin-bottom: 25px;
+    border-width: 8px;
+    border-style: ridge;
+    border-color: #3498db;
+}
+
+
+
+
+.my-right {
+    background-color: #122932ff;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 75px;
+    color: white;
+}
+
+
+
+.row-insert-update-delete {
+    background-color: 122932ff;
+    /* "gunmetal" color */
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Script Std', cursive;
+}
+
+h4 {
+    text-align: center;
+}
+
+form {
+    align-items: center;
+}
+
+.page-title {
+
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+/* Tutorials Page */
+
+
+
+.page-tutorials {
+    flex: 1;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+/* Payments */
+
+
+#payment-options {
+    display: flex;
+    align-items: center;
+}
+
+
+
+/* Logos */
+
+
+
+.payment-logos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.payment-logos-container .payment-logo {
+    margin-left: 400px;
+  }
+
+
+
+
+.payment-logo:hover {
+    opacity: 0.5;
+}
+
+.payment-logo {
+    filter: brightness(100%);
+    margin-right: 50px;
+  }
+
+
+#paypal-logo {
+    margin-bottom: 150px;
+
+}
+
+
+#cashapp-logo {
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+
+.meta-pay-logo {
+    filter: brightness(150%);
+    margin-top: 150px;
+    margin-bottom: 125px;
+}
+
+
+
+
+/* QR Codes */
+
+
+
+.qr-code-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+  }
+  
+  .qr-code-container .payment-qr {
+    margin-top: 10px;
+  }
+
+  .payment-qr {
+    margin-bottom: 50px;  
+  }
